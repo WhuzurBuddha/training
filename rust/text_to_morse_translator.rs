@@ -1,4 +1,3 @@
-use std::hint::spin_loop;
 use std::io;
 
 pub fn morse_output() {
